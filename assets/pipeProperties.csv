@@ -1,0 +1,15 @@
+Setting,Value,Options,[Units]
+,,,
+Pipe Geometry,,,
+Total Pipe Length,2,,[m]
+Pipe Inner Diameter,0.01,,[m]
+,,,
+Fluid Properties,,,
+Fluid,H2O,,[case insensitive string]
+Initial Temperature,300,,[K]
+Initial Pressure,3.00E+05,,[Pa]
+Total Mass Flow,0.5,,[kg/s
+,,,
+Options,,,
+Plots,on,"on, off",
+Number of Pipe Slices,25,,
